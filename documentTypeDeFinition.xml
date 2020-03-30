@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team>
+	<name>Spain National Team</name>
+	<prayers>
+		<goalkeeper>Casillas</goalkeeper>
+		<defender>Puyol</defender>
+		<defender>Ramos</defender>
+		<defender>Alba</defender>
+		<midfielder injury="none">Busquets</midfielder>
+		<midfielder injury="medium">Thiago</midfielder>
+		<midfielder injury="light">Iniesta</midfielder>
+		<midfielder injury="none">Silva</midfielder>
+		<midfielder injury="none">Cazorla</midfielder>
+		<striker>Alcacer</striker>
+		<striker>Costa</striker>
+	</prayers>
+	<coach>Del Bosque</coach>
+</team>
