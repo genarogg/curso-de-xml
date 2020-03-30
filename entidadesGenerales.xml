@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE team SYSTEM "file:///C:/Users/Genarogg/Documents/curso%20de%20xml%20intermedio/entidadesGenerales.xml"
+[
+<!ENTITY mycaptain "<captain>Xavi</captain>">
+]
+>
+<team>
+	<name>Spain National Team</name>
+	&mycaptain;
+	<prayers>
+		<goalkeeper>Casillas</goalkeeper>
+		<defender>Puyol</defender>
+		<defender>Ramos</defender>
+		<defender>Alba</defender>
+		<midfielder juega="si">Busquets</midfielder>
+		<midfielder juega="no">Thiago</midfielder>
+		<midfielder juega="si">Iniesta</midfielder>
+		<midfielder>Silva</midfielder>
+		<midfielder juega="no">Cazorla</midfielder>
+		<striker>Alcacer</striker>
+		<striker>Costa</striker>
+	</prayers>
+	<coach>Del Bosque</coach>
+	<sponsor></sponsor>
+</team>
